@@ -337,7 +337,7 @@
 				"*uri*"
 			],
 			"settings": {
-				
+				"foreground": "#33f3df",
 				"fontStyle": "underline"
 			}
 		},
